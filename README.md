@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Awesome books: with ES6</b></h3>
+  <h3><b>To-do list</b></h3>
 
 </div>
 
@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome books: with ES6] <a name="about-project"></a>
+# 📖 [To Do list: interactive list] <a name="about-project"></a>
 
 This project is designed to help us understand JavaScript objects and how to utilize it. Also about using ECMASCRIPT 6 and importing Scripts.
 
@@ -42,6 +42,7 @@ This project is designed to help us understand JavaScript objects and how to uti
 - Linters
 - Javascript
 - ES6
+- Webpack
 
 <details>
   <summary>Client</summary>
@@ -60,6 +61,8 @@ This project is designed to help us understand JavaScript objects and how to uti
 
 - **[ES6]**
 - **[Importing-Scripts]**
+- **[Adding and removing lists]**
+- **[making interactive to-do list]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,13 +83,13 @@ This project is designed to help us understand JavaScript objects and how to uti
 1.  Clone the Repo with:
 
 ```
-git clone https://github.com/znation2010/Awesome-Books
+git clone https://github.com/znation2010/To-Do-list
 ```
 
 2. switch to the cloned directory
 
 ```
-cd Awesome-Books
+cd To-Do-List
 ```
 
 ### Installation
