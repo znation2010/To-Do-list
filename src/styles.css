@@ -1,0 +1,91 @@
+/* Updated CSS for the "heat" class */
+.heat {
+  background-color: #f7f7f7;
+  width: 50%;
+}
+
+/* The rest of your existing CSS remains unchanged */
+.todo-table {
+  width: 80%;
+  margin-top: 20px;
+  table-layout: fixed;
+}
+
+.todo-table input[type="text"] {
+  width: 98%;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-left: -101%;
+  margin-bottom: -1%;
+}
+
+.todo-table input[type="checkbox"] {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.todo-table i.fas.fa-keyboard {
+  font-size: 1.2rem;
+  color: #007bff;
+  cursor: pointer;
+}
+
+.todo-item {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.todo-table h2 {
+  font-size: 15px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #999;
+}
+
+.custom-row {
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  max-width: 150px;
+}
+
+/* Style the custom content */
+.custom-content {
+  font-size: 15px;
+  background-color: #f7f7f7;
+  padding: 5px;
+  width: 49%;
+  height: 25px;
+  margin-bottom: -4px;
+  border: 1px solid #ccc;
+}
+
+#refreshButton {
+  margin-left: 70%;
+}
+
+.kebab-icon {
+  width: 20px;
+  margin-left: 80%;
+}
+
+#clearCompletedButton {
+  background-color: gray;
+  color: white;
+  border: none;
+  padding: 10px;
+  width: 50%;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#clearCompletedButton:hover {
+  background-color: darkgray;
+}
