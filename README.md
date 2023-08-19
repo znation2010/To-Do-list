@@ -31,7 +31,7 @@
 
 # 📖 [To Do list: interactive list] <a name="about-project"></a>
 
-This project is designed to help us understand JavaScript objects and how to utilize it. Also about using ECMASCRIPT 6 and importing Scripts.
+This project is designed to help us understand JavaScript objects and how to utilize it. Also about using ECMASCRIPT 6 and importing Scripts.That it helps to add , delete and Save in local storage and retrive a to do list activity.
 
 ## 🛠 Built With <a name="built-with"></a>
 
